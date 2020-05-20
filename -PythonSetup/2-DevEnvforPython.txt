@@ -1,0 +1,12 @@
+1. Text Editors
+- Plugins and Add Ons
+- Autocomplete is usually not inside
+
+2. IDE
+- Lots of Extra Functionality
+- E.g. PyCharm and Spyder
+
+3. Notebook Environments
+- Great for Learning
+- See your input of your code next to your output
+- Run individual cells

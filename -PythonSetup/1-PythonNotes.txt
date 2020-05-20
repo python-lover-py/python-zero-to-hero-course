@@ -1,0 +1,17 @@
+Developed in 1991.
+Many advantages.
+
+Developers can learn it quickly
+Syntax is easier to read
+It uses white space instead of curly braces
+
+Used by every major company
+Huge amount of additional open-source libraries
+E.g. email, read images
+
+Python has a lot of stuff built in
+Standard libraries
+Math library
+
+Anaconda Distribtution
+What is miniconda? Smaller version of Anaconda
